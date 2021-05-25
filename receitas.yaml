@@ -1,0 +1,55 @@
+---
+lanches:
+    bolo de cenoura:
+        - ['ovos', 3, 'un', 'supermercado']
+        - ['farinha trigo', 2, 'xicaras','supermercado']
+        - ['oleo', 1, 'copo', 'supermercado']
+        - ['cenoura',2, 'un', 'sacolao']
+    tapioca com frango (6 un):
+        - ['tapioca', 500, 'g','supermercado']
+        - ['file de peito', 500, 'g','acogue']
+        - ['cebola', 1, 'un','sacolao']
+        - ['alho', 1, 'a gosto','sacolao']
+        - ['pimenta do reino', 1, 'a gosto', 'sacolao']
+        - ['azeite', 2, 'colheres','supermercado']
+    overnight oats (5 un):
+        - ['maca', 1, 'un','sacolao']
+        - ['iourgute', 100, 'ml','supermercado']
+        - ['granola', 50, 'g','supermercado']
+    Ovo cozido (5 un):
+        - ['ovos', 5, 'un','supermercado']
+    Enrolado mexicano (6 un):
+        - ['pao sirio', 500, 'g','supermercado']
+        - ['file de peito', 500, 'g','acogue']
+        - ['cebola', 1, 'un','sacolao']
+        - ['alho', 1, 'a gosto','sacolao']
+        - ['pimenta do reino', 1, 'a gosto','sacolao']
+        - ['azeite', 2, 'colheres','supermercado']
+        - ['abacate', 1, 'un','sacolao'] # Guacamole
+        - ['tomate', 1, 'un','sacolao']
+    torta de frango diet:
+        - ['file de peito', 300, 'g','acogue']
+        - ['farinha trigo', 3, 'xicaras','supermercado']
+        - ['oleo', 1, 'copo','supermercado']
+        - ['sal', 1, 'a gosto','supermercado']
+    biscoitos de aveia:
+        - ['farinha aveia', 2,'xicaras','supermercado']
+        - ['azeite', 1, 'colher','supermercado']
+        - ['pimenta do reino', 1, 'a gosto','sacolao']
+    sanduiche natural (5 un):
+        - ['pao de forma', 10, 'bandas','supermercado']
+        - ['alface', 1, 'a gosto','sacolao']
+        - ['tomate', 1, 'a gosto','sacolao']
+sucos:
+    abacaxi com hortela (1 L):
+        - ['abacaxi', 3, 'pedacos','sacolao']
+        - ['acucar', 1, 'copo','supermercado']
+    limonada suica (1 L):
+        - ['limao', 1, 'un','sacolao']
+        - ['acucar', 1, 'copo','supermercado']
+    maracuja (1 L):
+        - ['maracuja', 2, 'un','sacolao']
+        - ['acucar', 1, 'copo','supermercado']
+        
+        
+      
