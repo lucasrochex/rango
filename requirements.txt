@@ -134,7 +134,6 @@ python-jsonrpc-server==0.3.4
 python-language-server==0.33.0
 pytz==2020.1
 PyWavelets==1.1.1
-pywin32==227
 pywin32-ctypes==0.2.0
 pywinpty==0.5.7
 PyYAML==5.3.1
@@ -158,7 +157,6 @@ soupsieve==2.0.1
 sympy==1.5.1
 tables==3.6.1
 tblib==1.6.0
-terminado==0.8.3
 testpath==0.4.4
 toml==0.10.0
 toolz==0.10.0
