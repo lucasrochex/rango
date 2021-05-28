@@ -1,5 +1,7 @@
 ---
 lanches:
+    -:
+        - ['',0,'','']
     bolo de cenoura:
         - ['ovos', 3, 'un', 'supermercado']
         - ['farinha trigo', 2, 'xicaras','supermercado']
@@ -50,6 +52,116 @@ sucos:
     maracuja (1 L):
         - ['maracuja', 2, 'un','sacolao']
         - ['acucar', 1, 'copo','supermercado']
-        
+caldos:
+    Caldo de feijao:
+        - ['feijao', 500, 'g', 'supermercado']
+        - ['bacon', 100, 'g', 'supermercado']
+        - ['calabresa',100, 'g', 'supermercado']
+        - ['alho', 0, 'a gosto', 'sacolao']
+        - ['cebolinha', 0.5, 'maco','sacolao']
+    Caldo de mandioca:
+        - ['mandioca', 500, 'g', 'sacolao']
+        - ['bacon', 100, 'g', 'supermercado']
+        - ['calabresa',100, 'g', 'supermercado']
+        - ['alho', 0, 'a gosto', 'sacolao']      
+        - ['cebolinha', 0.5, 'maco','sacolao']
+massas:
+    Macarrao a bolonhesa:
+        - ['spaghetti', 250, 'g','supermercado']
+        - ['carne moida', 200, 'g', 'acogue']
+        - ['molho de tomate', 1, 'un', 'supermercado']
+        - ['cebola', 1, 'un','sacolao']
+        - ['alho', 1, 'a gosto','sacolao']
+    Macarrao ao molho branco:
+        - ['penne', 250, 'g', 'supermercado']
+        - ['queijo curado', 100, 'g', 'supermercado']
+        - ['manteiga', 3, 'colheres', 'supermercado']
+        - ['cebola', 1, 'un','sacolao']
+        - ['alho', 1, 'a gosto','sacolao']
+sobremesas:
+    Torta de bis:
+        - ['bis', 3, 'caixa','supermercado']
+        - ['creme de leite', 2, 'caixas', 'supermercado']
+        - ['leite condesado', 2, 'caixas', 'supermercado']
+    Pudim:
+        - ['queijo curado', 100, 'g','supermercado']
+        - ['creme de leite', 2, 'caixas', 'supermercado']
+        - ['leite condesado', 2, 'caixas', 'supermercado']
+porcoes:
+    File com fritas:
+        - ['contra file', 400, 'g', 'acogue']
+        - ['batata', 300, 'g', 'sacolao']
+        - ['cebola', 1, 'un', 'sacolao']
+        - ['alho', 1, 'a gosto','sacolao']
+        - ['sal', 1, 'a gosto', 'supermercado']
+    Liguica com mandioca:
+        - ['mandioca',300, 'g', 'sacolao']
+        - ['linguica', 400, 'g', 'acogue']
+        - ['cebola', 1, 'un', 'sacolao']
+        - ['sal', 1, 'a gosto', 'supermercado']
+    Bolinho de aveia/espinafre e calabresa com batata rustica:
+        - ['batata', 300, 'g', 'sacolao']
+        - ['farinha aveia', 2,'xicaras','supermercado']
+        - ['azeite', 3, 'colher','supermercado']
+        - ['pimenta do reino', 1, 'a gosto','sacolao']
+        - ['queijo parmesao', 1, 'a gosto', 'supermercado']
+        - ['calabresa',100, 'g', 'supermercado']
+guarnicoes:
+    -:
+        - ['',0,'','']
+    Arroz:
+        - ['arroz', 300, 'g', 'supermercado']
+        - ['alho', 1, 'a gosto','sacolao']
+        - ['sal', 1, 'a gosto', 'supermercado']
+    Feijao:
+        - ['feijao', 500, 'g', 'supermercado']
+        - ['alho', 1, 'a gosto','sacolao']
+        - ['sal', 1, 'a gosto', 'supermercado']
+    Farofa:
+        - ['farinha', 100, 'g', 'supermercado']
+        - ['manteiga', 1, 'colheres', 'supermercado']
+        - ['cebola', 1, 'un', 'sacolao']
+        - ['bacon', 50, 'g', 'supermercado']
+        - ['cenoura', 2, 'un', 'sacolao']
+    Vinagrete:
+        - ['tomate', 3, 'un', 'sacolao']
+        - ['cebola', 1, 'un', 'sacolao']
+        - ['pimentao vermelho',0.5,'un','sacolao']
+        - ['vinagre', 1, 'copo', 'supermercado']
+        - ['azeite', 3, 'colheres', 'supermercado']
+        - ['sal', 1, 'a gosto', 'supermercado']
+        - ['acucar', 1, 'colher', 'supermercado']
+    Brocolis refogado:
+        - ['brocolis', 0.5, 'pe', 'sacolao']
+        - ['alho', 1, 'a gosto','sacolao']
+        - ['sal', 1, 'a gosto', 'supermercado']
+carnes:
+    -:
+        - ['',0,'','']
+    Bife acebolado:
+        - ['contra file', 500,'g','acogue']
+        - ['cebola', 1, 'un', 'sacolao']
+        - ['alho', 1, 'a gosto','sacolao']
+        - ['sal', 1, 'a gosto', 'supermercado']
+    Sobrecoxa:
+        - ['sobrecoxa de frango', 500, 'g','acogue']
+        - ['acucar', 1, 'colher', 'supermercado']
+        - ['limao', 1, 'un', 'sacolao']
+        - ['alho', 1, 'a gosto','sacolao']
+        - ['sal', 1, 'a gosto', 'supermercado']
+saladas:
+    -:
+        - ['',0,'','']
+    Alface e Tomate:
+        - ['alface', 0.25, 'pe', 'sacolao']
+        - ['tomate', 2, 'un', 'sacolao']
+    Cenoura, alface, tomatinho:
+        - ['alface', 0.25, 'pe', 'sacolao']
+        - ['tomate cereja', 0.5, 'bandeija', 'sacolao']
+        - ['cenoura', 1, 'un', 'sacolao']
+        - ['limao', 1, 'un', 'sacolao']
+        - ['azeite', 1,'colheres', 'sacolao']
+      
+    
         
       
