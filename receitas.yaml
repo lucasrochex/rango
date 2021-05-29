@@ -2,24 +2,33 @@
 lanches:
     -:
         - ['',0,'','']
-    bolo de cenoura:
-        - ['ovos', 3, 'un', 'supermercado']
-        - ['farinha trigo', 2, 'xicaras','supermercado']
-        - ['oleo', 1, 'copo', 'supermercado']
-        - ['cenoura',2, 'un', 'sacolao']
-    tapioca com frango (6 un):
+    Bauru (5 un):
+        - ['pao frances', 5, 'un','supermercado']
+        - ['alface', 1, 'a gosto','sacolao']
+        - ['tomate', 1, 'a gosto','sacolao']
+        - ['presunto', 5,'fatias', 'supermercado']
+        - ['mussarela', 5, 'fatias', 'supermercado']
+    Sanduiche natural (5 un):
+        - ['pao de forma', 10, 'bandas','supermercado']
+        - ['alface', 1, 'a gosto','sacolao']
+        - ['tomate', 1, 'a gosto','sacolao']
+    Cachorro quente (10 un):
+        - ['salsicha', 10, 'un', 'acogue']
+        - ['tomate', 2, 'un', 'sacolao']
+        - ['cebola', 1, 'un','sacolao']
+        - ['milho', 1, 'lata', 'supermercado']
+        - ['molho de tomate', 200, 'g', 'supermercado']
+        - ['pao de cachorro quente', 10, 'un', 'supermercado']
+        - ['batata palha', 100, 'g','supermercado']
+        - ['ketchup',1, 'a gosto', 'supermercado']
+        - ['maionese', 1, 'a gosto', 'supermercado']
+    tapioca com frango (5 un):
         - ['tapioca', 500, 'g','supermercado']
         - ['file de peito', 500, 'g','acogue']
         - ['cebola', 1, 'un','sacolao']
         - ['alho', 1, 'a gosto','sacolao']
         - ['pimenta do reino', 1, 'a gosto', 'sacolao']
         - ['azeite', 2, 'colheres','supermercado']
-    overnight oats (5 un):
-        - ['maca', 1, 'un','sacolao']
-        - ['iourgute', 100, 'ml','supermercado']
-        - ['granola', 50, 'g','supermercado']
-    Ovo cozido (5 un):
-        - ['ovos', 5, 'un','supermercado']
     Enrolado mexicano (6 un):
         - ['pao sirio', 500, 'g','supermercado']
         - ['file de peito', 500, 'g','acogue']
@@ -38,10 +47,6 @@ lanches:
         - ['farinha aveia', 2,'xicaras','supermercado']
         - ['azeite', 1, 'colher','supermercado']
         - ['pimenta do reino', 1, 'a gosto','sacolao']
-    sanduiche natural (5 un):
-        - ['pao de forma', 10, 'bandas','supermercado']
-        - ['alface', 1, 'a gosto','sacolao']
-        - ['tomate', 1, 'a gosto','sacolao']
 sucos:
     abacaxi com hortela (1 L):
         - ['abacaxi', 3, 'pedacos','sacolao']
@@ -109,24 +114,32 @@ porcoes:
 guarnicoes:
     -:
         - ['',0,'','']
+    Arroz e feijão:
+        - ['arroz', 400, 'g', 'supermercado']   
+        - ['feijao', 300, 'g', 'supermercado']
+        - ['alho', 1, 'a gosto','sacolao']
+        - ['sal', 1, 'a gosto', 'supermercado']
     Arroz:
         - ['arroz', 300, 'g', 'supermercado']
         - ['alho', 1, 'a gosto','sacolao']
         - ['sal', 1, 'a gosto', 'supermercado']
-    Feijao:
-        - ['feijao', 500, 'g', 'supermercado']
+    Feijão:
+        - ['feijao', 300, 'g', 'supermercado']
         - ['alho', 1, 'a gosto','sacolao']
         - ['sal', 1, 'a gosto', 'supermercado']
     Farofa:
-        - ['farinha', 100, 'g', 'supermercado']
+        - ['farinha mandioca', 100, 'g', 'supermercado']
         - ['manteiga', 1, 'colheres', 'supermercado']
         - ['cebola', 1, 'un', 'sacolao']
         - ['bacon', 50, 'g', 'supermercado']
         - ['cenoura', 2, 'un', 'sacolao']
+        - ['ovos', 2, 'un', 'supermercado']
+        - ['milho',0.33, 'lata', 'supermercado']
     Vinagrete:
         - ['tomate', 3, 'un', 'sacolao']
         - ['cebola', 1, 'un', 'sacolao']
         - ['pimentao vermelho',0.5,'un','sacolao']
+        - ['pimentao amarelo', 0.5, 'un', 'sacolao']
         - ['vinagre', 1, 'copo', 'supermercado']
         - ['azeite', 3, 'colheres', 'supermercado']
         - ['sal', 1, 'a gosto', 'supermercado']
@@ -135,6 +148,55 @@ guarnicoes:
         - ['brocolis', 0.5, 'pe', 'sacolao']
         - ['alho', 1, 'a gosto','sacolao']
         - ['sal', 1, 'a gosto', 'supermercado']
+    Salpicão:
+        - ['peito de frango', 500, 'g', 'acogue']
+        - ['cenoura', 2, 'un','sacolao']
+        - ['milho',1, 'lata','supermercado']
+        - ['uva passas', 100, 'g','supermercado']
+        - ['maionese', 1, 'a gosto', 'supermercado']
+        - ['batata palha', 150, 'g', 'supermercado']
+    Legumes no vapor (Couve-Flor,Cenoura, Brocolis):
+        - ['couve flor', 0.5, 'pe','sacolao']
+        - ['cenoura', 2, 'un', 'sacolao']
+        - ['brocolis', 0.5, 'pe','sacolao']
+    Batata Soute:
+        - ['batata', 6, 'un', 'sacolao']
+        - ['manteiga',3, 'colheres','supermercado']
+        - ['cebolinha', 1, 'a gosto', 'sacolao']
+    Angu:
+        -['Fuba', 1, 'xicara','supermercado']
+    Tutu (com ovo, cebola e calabresa):
+        - ['feijao', 300, 'g', 'supermercado']
+        - ['alho', 1, 'a gosto','sacolao']
+        - ['sal', 1, 'a gosto', 'supermercado']
+        - ['bacon', 100, 'g', 'acogue']
+        - ['cebola', 1, 'un', 'sacolao']
+        - ['farinha mandioca', 50, 'g','supermercado']
+        - ['calabresa', 50, 'g','supermercado']
+    Batata frita:
+        - ['batata', 4, 'un', 'sacolao']
+    Pure de batata:
+        - ['batata', 8, 'un', 'sacolao']
+        - ['queijo parmesao',50, 'g','supermercado']
+        - ['leite', 0.5, 'xicara', 'supermercado']
+        - ['manteiga', 3, 'colheres', 'supermercado']
+    Tropeiro:
+        - ['feijao', 500, 'g', 'supermercado']
+        - ['alho', 1, 'a gosto','sacolao']
+        - ['sal', 1, 'a gosto', 'supermercado']
+        - ['bacon', 150, 'g', 'acogue']
+        - ['cebola', 1, 'un', 'sacolao']
+        - ['farinha mandioca', 50, 'g','supermercado']
+        - ['calabresa', 50, 'g','supermercado']
+        - ['ovos',4, 'un','supermercado']
+        - ['cebolinha', 1, 'a gosto', 'sacolao']
+        - ['couve', 1, 'a gosto', 'sacolao']
+    Batata rústica:
+        - ['batata', 6, 'un', 'sacolao']
+        - ['azeite', 3,'colheres', 'supermercado']
+        - ['alho', 1, 'a gosto','sacolao']
+        - ['cebola',1,'un', 'sacolao']
+        - ['queijo parmesao',30, 'g','supermercado']
 carnes:
     -:
         - ['',0,'','']
@@ -149,6 +211,41 @@ carnes:
         - ['limao', 1, 'un', 'sacolao']
         - ['alho', 1, 'a gosto','sacolao']
         - ['sal', 1, 'a gosto', 'supermercado']
+    Carne de panela com batata e cenoura:
+        - ['acém', 500, 'g','acogue']
+        - ['cenoura',2, 'un', 'sacolao']
+        - ['batata', 6, 'un', 'sacolao']
+        - ['limao', 1, 'un', 'sacolao']
+        - ['alho', 1, 'a gosto','sacolao']
+        - ['sal', 1, 'a gosto', 'supermercado']
+    Peito de frango grelhado:
+        - ['peito de frango', 500, 'g', 'acogue']
+        - ['limao', 1, 'un', 'sacolao']
+        - ['alho', 1, 'a gosto','sacolao']
+        - ['sal', 1, 'a gosto', 'supermercado']
+    File de tilápia frito:
+        - ['file de tilapia', 500, 'g','supermercado']
+        - ['farinha trigo', 1, 'xicara','supermercado']
+        - ['fuba', 1,'xicara','supermercado']
+        - ['pimenta do reino', 1, 'a gosto', 'supermercado']
+        - ['alho', 1, 'a gosto','sacolao']
+    Frango com quiabo:
+        - ['frango inteiro', 0.5, 'un', 'acogue']
+        - ['quiabo', 200, 'g','sacolao']
+        - ['cebola', 1, 'un', 'sacolao']
+        - ['alho', 1, 'a gosto','sacolao']
+        - ['sal', 1, 'a gosto', 'supermercado']
+    Frango assado com batata:
+        - ['coxa e sobrecoxa',500, 'g', 'acogue']
+        - ['limao', 1, 'un', 'sacolao']
+        - ['maionese', 1, 'a gosto', 'supermercado']
+        - ['batata', 5, 'un', 'sacolao']
+        - ['azeite', 2,'colheres','supermercado']
+    Omelete com queijo:
+        - ['ovos',4, 'un','supermercado']
+        - ['queijo curado', 100, 'g', 'supermercado']
+        - ['leite', 0.5,'xicara','supermercado']
+        - ['milho', 0.25, 'lata', 'supermercado']
 saladas:
     -:
         - ['',0,'','']
@@ -161,6 +258,20 @@ saladas:
         - ['cenoura', 1, 'un', 'sacolao']
         - ['limao', 1, 'un', 'sacolao']
         - ['azeite', 1,'colheres', 'sacolao']
+cafe:
+    bolo de cenoura:
+        - ['ovos', 3, 'un', 'supermercado']
+        - ['farinha trigo', 2, 'xicaras','supermercado']
+        - ['oleo', 1, 'copo', 'supermercado']
+        - ['cenoura',2, 'un', 'sacolao']
+lanches saudaveis:
+    overnight oats (5 un):
+        - ['maca', 5, 'un','sacolao']
+        - ['iourgute', 250, 'ml','supermercado']
+        - ['granola', 150, 'g','supermercado']
+    Ovo cozido (5 un):
+        - ['ovos', 5, 'un','supermercado']
+    
       
     
         
