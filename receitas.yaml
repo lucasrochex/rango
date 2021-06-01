@@ -272,7 +272,7 @@ cafe:
         - ['achocolatado', 3,'colheres', 'supermercado']
         - ['leite', 1, 'xicara', 'supermercado']
     Pao de queijo (20 un):
-        - ['polvilho azedo',1, 'xicaras','supermercado']
+        - ['polvilho azedo',600, 'g','supermercado']
         - ['leite', 1, 'xicaras', 'supermercado']
         - ['oleo', 0.5, 'xicaras', 'supermercado']
         - ['queijo parmesao', 100, 'g','supermercado']
