@@ -261,7 +261,7 @@ saladas:
         - ['limao', 1, 'un', 'sacolao']
         - ['azeite', 1,'colheres', 'sacolao']
 cafe:
-    Bolo de cenoura com calda de chocolate:
+    Bolo de cenoura com calda de chocolate (10 porções):
         - ['ovos', 4, 'un', 'supermercado']
         - ['farinha trigo', 3, 'xicaras','supermercado']
         - ['oleo', 0.5, 'xicaras', 'supermercado']
@@ -271,13 +271,13 @@ cafe:
         - ['manteiga', 1, 'colheres','supermercado']
         - ['achocolatado', 3,'colheres', 'supermercado']
         - ['leite', 1, 'xicara', 'supermercado']
-    Pao de queijo:
+    Pao de queijo (20 un):
         - ['polvilho azedo',1, 'xicaras','supermercado']
         - ['leite', 1, 'xicaras', 'supermercado']
         - ['oleo', 0.5, 'xicaras', 'supermercado']
         - ['queijo parmesao', 100, 'g','supermercado']
         - ['sal', 1, 'a gosto', 'supermercado']
-    Torta de sardinha (12 porcoes):
+    Torta de sardinha (12 porções):
         - ['leite', 2, 'xicaras','supermercado']
         - ['oleo', 1, 'xicaras','supermercado']
         - ['ovos', 4, 'un', 'supermercado']
@@ -298,7 +298,7 @@ cafe:
         - ['batata palha', 100, 'g','supermercado']
         - ['ketchup',1, 'a gosto', 'supermercado']
         - ['maionese', 1, 'a gosto', 'supermercado']
-    Torta de frango:
+    Torta de frango (8 porções):
         - ['file de peito', 300, 'g','acogue']
         - ['farinha trigo', 3, 'xicaras','supermercado']
         - ['oleo', 0.5, 'copo','supermercado']
