@@ -8,21 +8,14 @@ lanches:
         - ['tomate', 1, 'a gosto','sacolao']
         - ['presunto', 5,'fatias', 'supermercado']
         - ['mussarela', 5, 'fatias', 'supermercado']
-    Sanduiche natural (5 un):
+    Sanduiche natural de frango (5 un):
         - ['pao de forma', 10, 'bandas','supermercado']
         - ['alface', 1, 'a gosto','sacolao']
         - ['tomate', 1, 'a gosto','sacolao']
-    Cachorro quente (10 un):
-        - ['salsicha', 10, 'un', 'acogue']
-        - ['tomate', 2, 'un', 'sacolao']
+        - ['file de peito', 200, 'g','acogue']
         - ['cebola', 1, 'un','sacolao']
-        - ['milho', 1, 'lata', 'supermercado']
-        - ['molho de tomate', 200, 'g', 'supermercado']
-        - ['pao de cachorro quente', 10, 'un', 'supermercado']
-        - ['batata palha', 100, 'g','supermercado']
-        - ['ketchup',1, 'a gosto', 'supermercado']
-        - ['maionese', 1, 'a gosto', 'supermercado']
-    tapioca com frango (5 un):
+        - ['alho', 1, 'a gosto','sacolao']
+    Tapioca com frango (5 un):
         - ['tapioca', 500, 'g','supermercado']
         - ['file de peito', 500, 'g','acogue']
         - ['cebola', 1, 'un','sacolao']
@@ -38,43 +31,44 @@ lanches:
         - ['azeite', 2, 'colheres','supermercado']
         - ['abacate', 1, 'un','sacolao'] # Guacamole
         - ['tomate', 1, 'un','sacolao']
-    torta de frango diet:
-        - ['file de peito', 300, 'g','acogue']
-        - ['farinha trigo', 3, 'xicaras','supermercado']
-        - ['oleo', 1, 'copo','supermercado']
-        - ['sal', 1, 'a gosto','supermercado']
     biscoitos de aveia:
         - ['farinha aveia', 2,'xicaras','supermercado']
         - ['azeite', 1, 'colher','supermercado']
         - ['pimenta do reino', 1, 'a gosto','sacolao']
+    overnight oats (5 un):
+        - ['maca', 5, 'un','sacolao']
+        - ['iourgute', 250, 'ml','supermercado']
+        - ['granola', 150, 'g','supermercado']
+    Ovo cozido (5 un):
+        - ['ovos', 5, 'un','supermercado']  
 sucos:
     abacaxi com hortela (1 L):
         - ['abacaxi', 3, 'pedacos','sacolao']
-        - ['acucar', 1, 'copo','supermercado']
+        - ['acucar', 0.25, 'xicaras','supermercado']
     limonada suica (1 L):
         - ['limao', 1, 'un','sacolao']
-        - ['acucar', 1, 'copo','supermercado']
+        - ['acucar', 0.25, 'xicaras','supermercado']
     maracuja (1 L):
         - ['maracuja', 2, 'un','sacolao']
-        - ['acucar', 1, 'copo','supermercado']
+        - ['acucar', 0.25, 'xicaras','supermercado']
 caldos:
     Caldo de feijao:
         - ['feijao', 500, 'g', 'supermercado']
         - ['bacon', 100, 'g', 'supermercado']
         - ['calabresa',100, 'g', 'supermercado']
         - ['alho', 0, 'a gosto', 'sacolao']
-        - ['cebolinha', 0.5, 'maco','sacolao']
+        - ['cebolinha', 1, 'a gosto','sacolao']
     Caldo de mandioca:
         - ['mandioca', 500, 'g', 'sacolao']
         - ['bacon', 100, 'g', 'supermercado']
         - ['calabresa',100, 'g', 'supermercado']
         - ['alho', 0, 'a gosto', 'sacolao']      
-        - ['cebolinha', 0.5, 'maco','sacolao']
+        - ['cebolinha', 1, 'a gosto','sacolao']
 massas:
     Macarrao a bolonhesa:
         - ['spaghetti', 250, 'g','supermercado']
-        - ['carne moida', 200, 'g', 'acogue']
-        - ['molho de tomate', 1, 'un', 'supermercado']
+        - ['carne moida', 300, 'g', 'acogue']
+        - ['molho de tomate', 100, 'g', 'supermercado']
         - ['cebola', 1, 'un','sacolao']
         - ['alho', 1, 'a gosto','sacolao']
     Macarrao ao molho branco:
@@ -83,15 +77,23 @@ massas:
         - ['manteiga', 3, 'colheres', 'supermercado']
         - ['cebola', 1, 'un','sacolao']
         - ['alho', 1, 'a gosto','sacolao']
+        - ['champion', 50, 'g','supermercado']
 sobremesas:
-    Torta de bis:
-        - ['bis', 3, 'caixa','supermercado']
-        - ['creme de leite', 2, 'caixas', 'supermercado']
-        - ['leite condesado', 2, 'caixas', 'supermercado']
-    Pudim:
-        - ['queijo curado', 100, 'g','supermercado']
-        - ['creme de leite', 2, 'caixas', 'supermercado']
-        - ['leite condesado', 2, 'caixas', 'supermercado']
+    Torta de bis (serve 10 pessoas):
+        - ['bis', 2, 'caixas','supermercado']
+        - ['maizena',1, 'colheres', 'supermercado']
+        - ['leite condesado', 1, 'latas', 'supermercado']
+        - ['leite', 1, 'xicaras', 'supermercado']
+        - ['ovos', 3, 'un', 'supermercado']
+        - ['margarina', 1,'colheres', 'supermercado']
+        - ['creme de leite', 1, 'caixa', 'supermercado']
+        - ['acucar', 0.5, 'xicara', 'supermercado']
+    Pudim (serve 10 pessoas):
+        - ['queijo curado', 40, 'g','supermercado']
+        - ['leite em po', 6, 'colheres', 'supermercado']
+        - ['leite condesado', 1, 'latas', 'supermercado']
+        - ['ovos', 3, 'un', 'supermercado']
+        - ['acucar',0.5, 'xicara','supermercado']
 porcoes:
     File com fritas:
         - ['contra file', 400, 'g', 'acogue']
@@ -114,7 +116,7 @@ porcoes:
 guarnicoes:
     -:
         - ['',0,'','']
-    Arroz e feijão:
+    Arroz e feijao:
         - ['arroz', 400, 'g', 'supermercado']   
         - ['feijao', 300, 'g', 'supermercado']
         - ['alho', 1, 'a gosto','sacolao']
@@ -123,7 +125,7 @@ guarnicoes:
         - ['arroz', 300, 'g', 'supermercado']
         - ['alho', 1, 'a gosto','sacolao']
         - ['sal', 1, 'a gosto', 'supermercado']
-    Feijão:
+    Feijao:
         - ['feijao', 300, 'g', 'supermercado']
         - ['alho', 1, 'a gosto','sacolao']
         - ['sal', 1, 'a gosto', 'supermercado']
@@ -148,7 +150,7 @@ guarnicoes:
         - ['brocolis', 0.5, 'pe', 'sacolao']
         - ['alho', 1, 'a gosto','sacolao']
         - ['sal', 1, 'a gosto', 'supermercado']
-    Salpicão:
+    Salpicao:
         - ['peito de frango', 500, 'g', 'acogue']
         - ['cenoura', 2, 'un','sacolao']
         - ['milho',1, 'lata','supermercado']
@@ -164,7 +166,7 @@ guarnicoes:
         - ['manteiga',3, 'colheres','supermercado']
         - ['cebolinha', 1, 'a gosto', 'sacolao']
     Angu:
-        -['Fuba', 1, 'xicara','supermercado']
+        - ['Fuba', 1, 'xicara','supermercado']
     Tutu (com ovo, cebola e calabresa):
         - ['feijao', 300, 'g', 'supermercado']
         - ['alho', 1, 'a gosto','sacolao']
@@ -191,7 +193,7 @@ guarnicoes:
         - ['ovos',4, 'un','supermercado']
         - ['cebolinha', 1, 'a gosto', 'sacolao']
         - ['couve', 1, 'a gosto', 'sacolao']
-    Batata rústica:
+    Batata rustica:
         - ['batata', 6, 'un', 'sacolao']
         - ['azeite', 3,'colheres', 'supermercado']
         - ['alho', 1, 'a gosto','sacolao']
@@ -223,7 +225,7 @@ carnes:
         - ['limao', 1, 'un', 'sacolao']
         - ['alho', 1, 'a gosto','sacolao']
         - ['sal', 1, 'a gosto', 'supermercado']
-    File de tilápia frito:
+    File de tilapia frito:
         - ['file de tilapia', 500, 'g','supermercado']
         - ['farinha trigo', 1, 'xicara','supermercado']
         - ['fuba', 1,'xicara','supermercado']
@@ -259,20 +261,52 @@ saladas:
         - ['limao', 1, 'un', 'sacolao']
         - ['azeite', 1,'colheres', 'sacolao']
 cafe:
-    bolo de cenoura:
-        - ['ovos', 3, 'un', 'supermercado']
-        - ['farinha trigo', 2, 'xicaras','supermercado']
-        - ['oleo', 1, 'copo', 'supermercado']
-        - ['cenoura',2, 'un', 'sacolao']
-lanches saudaveis:
-    overnight oats (5 un):
-        - ['maca', 5, 'un','sacolao']
-        - ['iourgute', 250, 'ml','supermercado']
-        - ['granola', 150, 'g','supermercado']
-    Ovo cozido (5 un):
-        - ['ovos', 5, 'un','supermercado']
-    
-      
-    
+    Bolo de cenoura com calda de chocolate:
+        - ['ovos', 4, 'un', 'supermercado']
+        - ['farinha trigo', 3, 'xicaras','supermercado']
+        - ['oleo', 0.5, 'xicaras', 'supermercado']
+        - ['cenoura',3, 'un', 'sacolao']
+        - ['acucar', 2, 'xicaras','supermercado']
+        - ['fermento quimico',1, 'colheres', 'supermercado']
+        - ['manteiga', 1, 'colheres','supermercado']
+        - ['achocolatado', 3,'colheres', 'supermercado']
+        - ['leite', 1, 'xicara', 'supermercado']
+    Pao de queijo:
+        - ['polvilho azedo',1, 'xicaras','supermercado']
+        - ['leite', 1, 'xicaras', 'supermercado']
+        - ['oleo', 0.5, 'xicaras', 'supermercado']
+        - ['queijo parmesao', 100, 'g','supermercado']
+        - ['sal', 1, 'a gosto', 'supermercado']
+    Torta de sardinha (12 porcoes):
+        - ['leite', 2, 'xicaras','supermercado']
+        - ['oleo', 1, 'xicaras','supermercado']
+        - ['ovos', 4, 'un', 'supermercado']
+        - ['farinha trigo', 3, 'xicaras', 'supermercado']
+        - ['fermento quimico',1, 'colher', 'supermercado']
+        - ['sardinha', 1, 'lata','supermercado']
+        - ['cebola', 1, 'un', 'sacolao']
+        - ['alho', 1, 'a gosto','sacolao']
+        - ['azeitona', 1, 'a gosto', 'supermercado']
+        - ['molho de tomate', 100, 'g', 'supermercado']
+    Cachorro quente (10 un):
+        - ['salsicha', 10, 'un', 'acogue']
+        - ['tomate', 2, 'un', 'sacolao']
+        - ['cebola', 1, 'un','sacolao']
+        - ['milho', 1, 'lata', 'supermercado']
+        - ['molho de tomate', 200, 'g', 'supermercado']
+        - ['pao de cachorro quente', 10, 'un', 'supermercado']
+        - ['batata palha', 100, 'g','supermercado']
+        - ['ketchup',1, 'a gosto', 'supermercado']
+        - ['maionese', 1, 'a gosto', 'supermercado']
+    Torta de frango:
+        - ['file de peito', 300, 'g','acogue']
+        - ['farinha trigo', 3, 'xicaras','supermercado']
+        - ['oleo', 0.5, 'copo','supermercado']
+        - ['sal', 1, 'a gosto','supermercado']
+        - ['cebola', 1, 'un', 'sacolao']
+        - ['alho', 1, 'a gosto','sacolao']
+        - ['azeitona', 1, 'a gosto', 'supermercado']
+        - ['tomate', 1, 'un', 'sacolao']
+        - ['fermento quimico',1, 'colher', 'supermercado']    
         
       
