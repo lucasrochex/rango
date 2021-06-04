@@ -64,6 +64,13 @@ caldos:
         - ['calabresa',100, 'g', 'supermercado']
         - ['alho', 0, 'a gosto', 'sacolao']      
         - ['cebolinha', 1, 'a gosto','sacolao']
+    Caldo de inhame, mostarda e frango:
+        - ['inhame',500, 'g', 'sacolao']
+        - ['filé de peito',400, 'g', 'acogue']
+        - ['folha mostarda',1, 'a gosto', 'sacolao']
+        - ['cebola', 1, 'un','sacolao']
+        - ['alho', 1, 'a gosto','sacolao']
+        - ['cebolinha', 1, 'a gosto','sacolao']
 massas:
     Macarrao a bolonhesa:
         - ['spaghetti', 250, 'g','supermercado']
@@ -308,5 +315,25 @@ cafe:
         - ['azeitona', 1, 'a gosto', 'supermercado']
         - ['tomate', 1, 'un', 'sacolao']
         - ['fermento quimico',1, 'colher', 'supermercado']    
-        
+refeicoes gourmet:
+    Pure Bat doce peito frango:
+        - ['leite', 2,'xicaras','supermercado']
+        - ['batata doce', 300, 'g', 'sacolao']
+        - ['peito de frango',150, 'g','acogue']
+        - ['limao',1, 'un','sacolao']
+        - ['manteiga',4,'colheres','supermercado']
+        - ['salsinha',1,'a gosto','sacolao']
+        - ['azeite',2,'colheres','supermercado']
+    Bife mil, cuscuz couve flor:
+        - ['sobrecoxa',300,'g','acogue']
+        - ['farinha trigo',0.5,'xicara', 'supermercado']
+        - ['farinha rosca',1, 'xicara','supermercado']
+        - ['ovos',2,'un','supermercado']
+        - ['couve flor',1,'pe','sacolao']
+        - ['vinagre vinho branco',1,'colheres','supermercado']
+        - ['alho', 1, 'a gosto','sacolao']
+        - ['alcaparras',2, 'colheres','supermercado']
+        - ['limao', 1, 'un','sacolao']
+        - ['azeite', 1, 'colher','supermercado']
+        - ['pimenta do reino', 1, 'a gosto','sacolao']
       
