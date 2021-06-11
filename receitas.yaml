@@ -337,7 +337,7 @@ refeicoes gourmet:
         - ['azeite', 1, 'colher','supermercado']
         - ['pimenta do reino', 1, 'a gosto','sacolao']
 bolos:
-    Cenoura com calda de chocolate:
+    Bolo de Cenoura com calda de chocolate:
         - ['cenoura',3,'un','sacolao']
         - ['ovos',4,'un','supermercado']
         - ['oleo',1,'xicaras','supermercado']
@@ -347,14 +347,14 @@ bolos:
         - ['manteiga',2,'colheres','supermercado']
         - ['fermento quimico',1,'colheres','supermercado']
         - ['chocolate em pó',0.5,'xicaras','supermercado']
-    Laranja:
+    Bolo de Laranja:
         - ['farinha trigo',3,'xicaras','supermercado']
         - ['acucar',3,'xicaras','supermercado']
         - ['manteiga',3,'colheres','supermercado']
         - ['ovos',4,'un','supermercado']
         - ['laranja',4,'un','sacolao']
         - ['fermento quimico',1,'colheres','supermercado']
-    Fuba com coco:
+    Bolo de Fuba com coco:
         - ['fuba mimoso',1,'xicaras','supermercado']
         - ['ovos',3,'un','supermercado']
         - ['leite',3,'xicaras','supermercado']
@@ -364,7 +364,7 @@ bolos:
         - ['farinha trigo',0.5,'xicaras','supermercado']
         - ['coco ralado',0.75,'xicaras','supermercado']
         - ['fermento quimico',1,'colheres','supermercado']
-    De nada:
+    Bolo de nada:
         - ['farinha trigo',3,'xicaras','supermercado']
         - ['manteiga',5, 'colheres', 'supermercado']
         - ['acucar',2,'xicaras','supermercado']
@@ -372,7 +372,7 @@ bolos:
         - ['leite',1,'xicara','supermercado']
         - ['fermento quimico',1,'colheres','supermercado']
         - ['sal',1,'a gosto','supermercado']
-    Milho verde:
+    Bolo de Milho Verde:
         - ['espiga milho',6,'un','sacolao']
         - ['ovos',4,'un','supermercado']
         - ['leite',1.5,'xicaras','supermercado']
@@ -381,7 +381,7 @@ bolos:
         - ['farinha trigo',1,'xicaras','supermercado']
         - ['fermento quimico',1,'colheres','supermercado']
         - ['manteiga',3,'colheres','supermercado']
-    Banana:
+    Bolo de Banana:
         - ['aveia flocos grossos',0.25,'xicaras','supermercado']
         - ['coco ralado',0.5,'xicaras','supermercado']
         - ['acucar mascavo',0.75,'xicaras','supermercado']
@@ -392,7 +392,7 @@ bolos:
         - ['ovos',2,'un','supermercado']
         - ['oleo',0.5,'xicaras','supermercado']
         - ['fermento quimico',1,'colheres','supermercado']
-    Chocolate com ganache:
+    Bolo de Chocolate com Ganache:
         - ['chocolate 50 amargo',400,'g','supermercado']
         - ['creme de leite FRESCO', 320,'g','supermercado']
         - ['mel',2.5,'colheres','supermercado']
@@ -406,7 +406,7 @@ bolos:
         - ['acucar mascavo',0.5,'xicaras','supermercado']
         - ['fermento quimico',1,'colher','supermercado']
         - ['limao',1,'un','supermercado']
-    Coco gelado:
+    Bolo de Coco Gelado:
         - ['ovos',5,'un','supermercado']
         - ['acucar',1.5,'xicaras','supermercado']
         - ['farinha trigo',1.5,'xicaras','supermercado']
@@ -415,7 +415,7 @@ bolos:
         - ['leite condensado',1,'latas','supermercado']
         - ['leite de coco',0.75,'xicaras','supermercado']
         - ['coco ralado',1,'xicara','supermercado']
-    Maca com mel:
+    Bolo de Maca com mel:
         - ['farinha trigo',2.33,'xicaras','supermercado']
         - ['chocolate em pó',0.1,'xicaras','supermercado']
         - ['cacau em po',1,'colheres','supermercado']
@@ -429,14 +429,14 @@ bolos:
         - ['fermento quimico',1,'colher','supermercado']
         - ['manteiga',1.5,'colheres','supermercado']
         - ['mel',0.33,'colheres','supermercado']
-    Baeta:
+    Bolo Baeta:
         - ['leite',4,'xicaras','supermercado']
         - ['manteiga',2,'colheres','supermercado']
         - ['farinha trigo',2.5,'xicaras','supermercado']
         - ['acucar',2,'xicaras','supermercado']
         - ['ovos',2,'un','supermercado']
 tortas:
-    Frango:
+    Torta de Frango:
         - ['peito de frango',400,'g','acougue']
         - ['cenoura',1,'un','sacolao']
         - ['salsao',1,'talo','sacolao']
@@ -452,7 +452,7 @@ tortas:
         - ['creme de leite',1,'caixa','supermercado']
         - ['parmessao',1,'xicaras','supermercado']
         
-    Linguica:
+    Torta de Linguica:
         - ['linguica frango', 250,'g','acougue']
         - ['ovos',2,'un','supermercado']
         - ['leite',0.75, 'xicaras','supermercado']
@@ -465,7 +465,7 @@ tortas:
         - ['cachaça',0.5,'xicaras','supermercado']
         - ['tomate',1,'un','sacolao']
         - ['coentro',1,'a gosto','sacolao']
-    Sardinha:
+    Torta de Sardinha:
         - ['leite',2,'xicaras','supermercado']
         - ['farinha trigo',3,'xicaras','supermercado']
         - ['oleo',1, 'xicaras','supermercado']
@@ -477,7 +477,7 @@ tortas:
         - ['molho de tomate',200,'g','supermercado']
         - ['sardinha',4,'latas','supermercado']
         - ['ervilha',1,'latas','supermercado']
-    Pernil com maca:
+    Torta de Pernil com Maca:
         - ['pernil',500, 'g','acougue']
         - ['cebola', 1, 'un','sacolao']
         - ['cheiro verde',1,'a gosto','sacolao']
@@ -490,7 +490,7 @@ tortas:
         - ['oleo',0.5,'xicaras','supermercado']
         - ['leite',1.5,'xicaras','supermercado']
         - ['fermento quimico',1,'colher','supermercado']
-    Milho:
+    Torta de Milho:
         - ['espiga milho',5,'un','sacolao']
         - ['ovos',3,'un','supermercado']
         - ['farinha rosca',0.5,'xicaras','supermercado']
@@ -499,7 +499,7 @@ tortas:
         - ['manteiga',2,'colheres','supermercado']
         - ['parmessao',1,'xicaras','supermercado']
         - ['cheiro verde',1,'a gosto','sacolao']
-    Carne moida:
+    Torta de Carne Moida:
         - ['cebola',1,'un','sacolao']
         - ['alho',1,'a gosto','sacolao']
         - ['carne moida',700,'g','acougue']
@@ -515,7 +515,7 @@ tortas:
         - ['mussarela',100,'g','supermercado']
         - ['tomate',1,'un','sacolao']
         - ['parmessao',0.25,'xicaras','supermercado']
-    Palmito:
+    Torta de Palmito:
         - ['farinha trigo',3,'xicaras','supermercado']
         - ['manteiga',5,'colheres','supermercado']
         - ['palmito',500,'g','supermercado']
@@ -525,7 +525,7 @@ tortas:
         - ['leite',1.5,'xicaras','supermercado']
         - ['salsinha',1,'a gosto','sacolao']
         - ['noz moscada',1,'a gosto','sacolao']
-    Fria:
+    Torta Fria:
         - ['manjericao',1,'a gosto','sacolao']
         - ['iorgute grego',2,'potes','supermercados']
         - ['alho',1,'a gosto','sacolao']
@@ -539,6 +539,19 @@ tortas:
         - ['pao de forma',4,'fatias','supermercado']
         - ['batata',1,'un','sacolao']
         - ['manteiga', 2,'colheres','supermercado']
+    Torta de Legumes:
+        - ['ovos',1,'un','supermercado']
+        - ['azeite',2,'colheres','supermercado']
+        - ['banana terra',2,'un','sacolao']
+        - ['cebola',1,'un','sacolao']
+        - ['alho',1,'a gosto','sacolao']
+        - ['farinha arroz',1,'xicaras','supermercado']
+        - ['polvilho doce',1,'xicaras','supermercado']
+        - ['milho',0.5,'latas','supermercado']
+        - ['cenoura',1,'un','sacolao']
+        - ['pimentao vermelho',0.5,'un','sacolao']
+        - ['brocolis',0.5,'un','sacolao']
+        
         
     
       
