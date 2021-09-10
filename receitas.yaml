@@ -40,7 +40,15 @@ lanches:
         - ['iourgute', 250, 'ml','supermercado']
         - ['granola', 150, 'g','supermercado']
     Ovo cozido (5 un):
-        - ['ovos', 5, 'un','supermercado']  
+        - ['ovos', 5, 'un','supermercado']
+    Pão com linguiça e vinagrete (6 un):
+        - ['linguiça toscana', 400,'g','açougue']
+        - ['pão francês', 6, 'un','supermercado']
+        - ['tomate', 3, 'un', 'sacolao']
+        - ['cebola', 1, 'un', 'sacolao']
+        - ['azeite', 1, 'colher','supermercado']
+        - ['tomate', 2, 'un', 'sacolao']
+        - ['cebola', 1, 'un', 'sacolao']  
 sucos:
     abacaxi com hortela (1 L):
         - ['abacaxi', 3, 'pedacos','sacolao']
@@ -93,6 +101,7 @@ massas:
         - ['cebola',1,'un','sacolao']
         - ['cebolinha',1,'maço','sacolao']
         - ['azeite',4,'colheres','supermercado']
+        - ['bacon', 100, 'g', 'supermercado']
 sobremesas:
     Torta de bis (serve 10 pessoas):
         - ['bis', 2, 'caixas','supermercado']
