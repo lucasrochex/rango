@@ -85,6 +85,14 @@ massas:
         - ['cebola', 1, 'un','sacolao']
         - ['alho', 1, 'a gosto','sacolao']
         - ['champion', 50, 'g','supermercado']
+    Macarrao com linguiça:
+        - ['penne', 500, 'g', 'supermercado']
+        - ['calabresa',200,'g','supermercado']
+        - ['alho poró', 1,'pé','sacolao']
+        - ['cebola roxa',1, 'un','sacolao']
+        - ['cebola',1,'un','sacolao']
+        - ['cebolinha',1,'maço','sacolao']
+        - ['azeite',4,'colheres','supermercado']
 sobremesas:
     Torta de bis (serve 10 pessoas):
         - ['bis', 2, 'caixas','supermercado']
